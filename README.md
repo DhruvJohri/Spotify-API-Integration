@@ -2,6 +2,8 @@
 
 This project integrates with the Spotify API to show your top 10 tracks, currently playing song, and followed artists. It provides playback controls to stop the currently playing song or start playing any of your top tracks.
 
+🚀 Live Project : https://heroic-youtiao-ef3d55.netlify.app/
+
 ## Setup Instructions
 
 1. Create a Spotify Developer Account:
